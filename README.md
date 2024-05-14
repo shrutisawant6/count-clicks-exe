@@ -15,9 +15,10 @@ Code reference: https://github.com/shrutisawant6/count-clicks
 
 **Result:**
 
-![image](https://github.com/shrutisawant6/count-clicks/assets/140047758/fe336cd9-8ab5-41c3-b47b-89d190760b9a)
+![1](https://github.com/shrutisawant6/count-clicks-exe/assets/140047758/02d60fd7-09f8-4996-8292-f5da31cb301a)
 
 
 **Error:**
 
-![image](https://github.com/shrutisawant6/count-clicks/assets/140047758/5f010d5e-87d8-4abe-a139-3de3f4697367)
+![2](https://github.com/shrutisawant6/count-clicks-exe/assets/140047758/a7b91c00-d7cb-4848-a556-8a4ab82a39a3)
+
