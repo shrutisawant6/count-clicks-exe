@@ -11,6 +11,8 @@ The factors that could influence the count are:
 - Pressure applied while clicking
 - Duration between clicks
 
+**You can keep it running the whole day without any performance issues.**
+
 Code reference: https://github.com/shrutisawant6/count-clicks 
 
 **Result:**
